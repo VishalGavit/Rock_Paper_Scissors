@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #24272e;
+}
+
+header{
+    background: white;
+    padding: 20px;
+}
+
+header > h1{
+    color: hotpink;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.score-board{
+    
+}
